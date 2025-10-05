@@ -48,11 +48,8 @@ pyinstaller --onefile gui.py
 - Watermark placement may vary with page sizes; tune font/size in `pdf_tools.py` if needed.
 ```
 
----
-
 #### File: `LICENSE`
 
-```text
 MIT License
 
 Copyright (c) 2025
@@ -65,4 +62,3 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-```
