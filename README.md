@@ -26,6 +26,12 @@ pip install -r requirements.txt
 2. Use tabs to select Merge / Split / Compress / Watermark / Protect
 3. Follow on-screen buttons to add files and run operations.
 
+Command Help
+...
+
+`python main.py -h merge`
+
+...
 **Usage (CLI examples)**
 - Merge:
 `python main.py merge out.pdf a.pdf b.pdf c.pdf`
