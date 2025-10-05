@@ -27,9 +27,9 @@ pip install -r requirements.txt
 3. Follow on-screen buttons to add files and run operations.
 
 Command Help
-```
 
-`python main.py -h merge`
+```
+python main.py -h merge
 ```
 
 **Usage (CLI examples)**
