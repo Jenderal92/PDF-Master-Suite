@@ -36,6 +36,7 @@ pip install -r requirements.txt
 
 **Packaging**
 To build Windows executable:
+
 ```
 
 pip install pyinstaller
@@ -46,4 +47,3 @@ pyinstaller --onefile gui.py
 **Notes**
 - Compress is basic; for stronger compression use `pikepdf` or Ghostscript.
 - Watermark placement may vary with page sizes; tune font/size in `pdf_tools.py` if needed.
-```
